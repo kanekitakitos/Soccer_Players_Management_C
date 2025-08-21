@@ -1,0 +1,24 @@
+14
+Cristiano	Ronaldo	1985	Avancado	196	118	Al Nassra
+Bruno	Fernandes	1994	Medio	53	13	Manchester United
+
+
+
+Andre	Silva	1995	Avancado	53	19	RB Leipzig
+Joao	Moutinho	1986	Medio	146	7	Wolverhampton
+
+
+Goncalo	Guedes	1996	Avancado	32	7	Wolverhampton
+Pepe	Ferreira	1983	Defesa	133	8	Porto
+Bernardo	Silva	1994	Avancado	78	8	Manchester City
+
+
+Ruben	Dias	1997	Defesa	44	2	Manchester City
+Rui	Patricio	1988	Guarda-redes	105	0	AS Roma
+Ruben	Neves	1997	Medio	37	0	Wolverhampton
+
+Cedric	Soares	1991	Defesa	34	1	Arsenal
+Renato	Sanches	1997	Medio	32	3	PSG
+Danilo	Pereira	1991	Defesa	64	2	PSG
+Nabo	Zarolho	1990	Avancado	30	5	Ginasio Tavira
+
